@@ -1,4 +1,4 @@
-# SEcure - AI Research
+# Secure - AI Research
 
 ## Overview
 
