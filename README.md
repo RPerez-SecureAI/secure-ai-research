@@ -2,11 +2,13 @@
 
 ## Overview
 
-This repository explores enterprise virtual patching strategies designed to improve cyber resilience, accelerate threat mitigation, and reduce attack surface exposure in large-scale operational environments.
+This repository focuses on applied research in AI-enabled cybersecurity, resilient enterprise defense systems, and autonomous cyber operations.
 
-The research focuses on practical cybersecurity implementation approaches informed by operational experience across military, government, and enterprise systems.
+The project explores how artificial intelligence, machine learning, and secure systems engineering can improve threat detection, incident response, cyber resilience, and operational security across enterprise and national security environments.
 
-This project also investigates future integration opportunities between virtual patching architectures, AI-assisted cyber defense, and autonomous security operations.
+Research areas include AI-assisted threat analysis, LLM security, adversarial machine learning, enterprise defense architecture, autonomous security operations, virtual patching strategies, and resilient infrastructure protection.
+
+The work is informed by operational experience across military, government, and enterprise cybersecurity environments, with an emphasis on practical implementation, scalable defense methodologies, and next-generation cyber defense innovation.
 
 ---
 
